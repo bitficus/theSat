@@ -1,4 +1,4 @@
-
+![The Sat](https://github.com/bitficus/theSat/blob/master/Sat1_Ubuntu.jpg)
 
 At present, there is not a widely accepted symbol for the Bitcoin unit "Satoshi". This project seeks to establish the "sat" ($@) as the currency symbol for the satoshi. In theory, the "sat" would be aesthetic and functional. Using the "sat" symbol, Bitcoin transactions could be conducted similarly to e-mail communication (1000$@Alice).
 
