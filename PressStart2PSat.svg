@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="176.081px" height="154.742px" viewBox="0 0 176.081 154.742" enable-background="new 0 0 176.081 154.742"
-	 xml:space="preserve">
-<g>
-	<rect x="277.769" y="238.846" fill="none" width="171.429" height="143.407"/>
-</g>
-<g>
-	<g>
-		<path d="M79.596,116.678v-11.392c0-3.797,0-7.595,0-11.392V82.503H56.813V71.111H45.421V59.719h11.392V48.327h22.784V36.935
-			h11.392v11.392h22.784v11.392H90.988v11.392h22.784v11.392h11.392v11.392h-11.392v11.392H90.988v11.392H79.596z M68.205,71.111
-			h11.392V59.719H68.205V71.111z M90.988,93.895h11.392V82.503H90.988V93.895z"/>
-	</g>
-	<g>
-		<rect x="132.167" y="31.127" width="18.75" height="93.75"/>
-		<rect x="38.418" y="124.877" width="93.75" height="18.75"/>
-		<rect x="38.418" y="12.377" width="93.75" height="18.75"/>
-		<path d="M19.668,31.127h18.75c0.116,20.882,0.233,41.765,0.349,62.647c13.61,0.04,27.22,0.08,40.829,0.121
-			c0,3.797,0,7.595,0,11.392c-19.976-0.053-39.953-0.105-59.929-0.158C19.668,80.462,19.668,55.794,19.668,31.127z"/>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131.25" height="131.25" viewBox="0 0 131.25 131.25">
+  <defs>
+    <symbol id="a" data-name="Sat" viewBox="0 0 131.25 131.25">
+      <path d="M59.929,104.3V70.126H37.145V58.734H25.753V47.342H37.145V35.95H59.929V24.558H71.321V35.95H94.1V47.342H71.321V58.734H94.1V70.126H105.5V81.517H94.1V92.909H71.321V104.3ZM48.537,58.734H59.929V47.342H48.537ZM71.321,81.517H82.713V70.126H71.321Z"/>
+      <g>
+        <rect x="112.5" y="18.75" width="18.75" height="93.75"/>
+        <rect x="18.75" y="112.5" width="93.75" height="18.75"/>
+        <rect x="18.75" width="93.75" height="18.75"/>
+        <path d="M0,18.75H18.75q.174,31.323.349,62.647l40.83.12V92.909L0,92.752Z"/>
+      </g>
+    </symbol>
+  </defs>
+  <title>PressStart2PSat</title>
+  <use width="131.25" height="131.25" xlink:href="#a"/>
 </svg>
