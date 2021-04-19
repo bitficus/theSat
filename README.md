@@ -3,7 +3,7 @@ At present, there is not a widely accepted symbol for the Bitcoin unit "Satoshi"
 
 The sat is in the early drafting stages and it is expected that different fonts and handwriting styles of this symbol will develop. The final form and function of the symbol is still fluid.  This project puts forth a proposal of the symbol, its theoretical function, and provides basic infastructure for its adoption.
 
-![The Sat](https://github.com/bitficus/theSat/blob/master/TheSat.jpg)
+![The Sat](https://github.com/bitficus/theSat/blob/master/serifSat.png)
 
 Image files of "the sat" are available in '.Jpg', '.png', and '.svg'. Ubuntu and Times New Roman fonts are freely available for use. These fonts are identical to their namesake, except that the "$" has been replaced by the "sat" ($@). All contributions to the project are welcome and encouraged. 
 
